@@ -11,6 +11,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "Deploy  Test";
+        return "Deploy  Test test page";
     }
 }
